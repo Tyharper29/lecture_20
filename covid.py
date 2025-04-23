@@ -2,6 +2,8 @@ import requests
 import matplotlib.pyplot as plt
 import time
 
+print("we made change")
+
 
 def get_hospitalization_data():
     hospitalizations_url = (
