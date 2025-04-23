@@ -77,7 +77,7 @@ def main():
     # visualize(harmonized)
     print(time.time() - start)
 
-
+print("we did it")
 main()
 
 # output = []
